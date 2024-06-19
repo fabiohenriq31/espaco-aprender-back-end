@@ -30,3 +30,7 @@ Firebase Hosting
 
 ##
 ![Pagina de agendamento](https://i.postimg.cc/Y0V84mMp/Captura-de-tela-2024-06-18-202300.png)
+
+![Pagina de criação de Post](https://i.postimg.cc/6QK5tyhj/criar-Novo-Post.png)
+
+![Pagina do Blog](https://i.postimg.cc/s2JfXs6V/site-Post-Blog.png)
